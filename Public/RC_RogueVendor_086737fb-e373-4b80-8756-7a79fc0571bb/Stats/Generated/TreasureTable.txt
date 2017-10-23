@@ -1,0 +1,6 @@
+treasure itemtypes "Common","Uncommon","Rare","Epic","Legendary","Divine","Unique"
+new treasuretable "MOD_RC_DW_Trader_Rogue"
+new subtable "1,1"
+object category "T_RogueTrader",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_ST_Skillbook_RogueTrainer",1,0,0,0,0,0,0,0

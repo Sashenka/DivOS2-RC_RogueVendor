@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+    <header version="2" time="1508602076" />
+    <version major="3" minor="1" revision="3" build="5" />
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="Module" value="086737fb-e373-4b80-8756-7a79fc0571bb" type="23" />
+            <attribute id="Name" value="RC_RogueVendor" type="23" />
+            <attribute id="Type" value="Add-on" type="23" />
+            <attribute id="UUID" value="7066aea8-9904-4c71-bf23-153450240f55" type="23" />
+        </node>
+    </region>
+</save>
